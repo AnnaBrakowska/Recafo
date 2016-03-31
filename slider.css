@@ -1,0 +1,35 @@
+#slider{
+	position:relative;
+}
+#slider img{
+	width:400px;
+	height:200px;
+	position: absolute;
+	top:0;
+	left:0;
+	display:none;
+}
+
+
+#sliderManual{
+	height:300px;
+}
+#sliderManual img{
+	width:300px;
+	height:300px;
+	position: absolute;
+	top:0;
+	left:0;
+	display:none;
+}
+
+button #previous {
+	position:absolute;
+	width:100px;
+}
+
+button #next{
+	position absolute;
+	width:100px;
+	height:100px;
+}
